@@ -1,4 +1,4 @@
-# LEACH-Improved
+# LEACH-Improved protocol
 This program is the simulation process of the LEACH-Improved protocol.
 <br/>
 <br/>
